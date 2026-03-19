@@ -1,5 +1,5 @@
 //Exercise 2
-let lightBulbStatus = "Test";
+let lightBulbStatus = "On";
 
 // Start coding here.
 if (lightBulbStatus === "On") { 
